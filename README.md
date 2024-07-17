@@ -8,7 +8,6 @@ I’m a doctoral candidate @ Tufts currently working on machine learning, and de
 
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/obafemi-jinadu/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://github.com/Obafemi-Jinadu/Obafemi-Jinadu/blob/7e763e87c6be6674b1fe15ce4f5e3696f7ec2d17/resume_recent.pdf)
 
 <!--
