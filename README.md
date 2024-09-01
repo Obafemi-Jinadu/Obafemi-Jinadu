@@ -25,7 +25,7 @@ I’m a doctoral candidate @ Tufts currently working on machine learning, and de
  
 </table>
 
-## Feel free to connect via:
+## More about me:
 
   - [x] <img src="https://github.com/user-attachments/assets/90030df6-054e-448b-962f-985e9faa9370" width="13"> [Linkedin](https://www.linkedin.com/in/obafemi-jinadu/)
   - [x] <img src="https://github.com/user-attachments/assets/d9949cd6-f45b-4294-80a4-d1751894b8d6" width="13"> [Website](https://femi-jinadu.github.io/) 
