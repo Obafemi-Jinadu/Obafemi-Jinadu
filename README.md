@@ -25,6 +25,8 @@ I’m a doctoral candidate @ Tufts currently working on machine learning, and de
  
 </table>
 
+⚡ Fun fact: I used to work as a data scientist prior to graduate school, which is where I picked up PowerBI.
+
 ## More about me:
 
   - [x] <img src="https://github.com/user-attachments/assets/90030df6-054e-448b-962f-985e9faa9370" width="13"> [Linkedin](https://www.linkedin.com/in/obafemi-jinadu/)
