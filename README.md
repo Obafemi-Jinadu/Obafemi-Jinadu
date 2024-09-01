@@ -8,7 +8,7 @@ I’m a doctoral candidate @ Tufts currently working on machine learning, and de
 
 
 
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://github.com/Obafemi-Jinadu/Obafemi-Jinadu/blob/7e763e87c6be6674b1fe15ce4f5e3696f7ec2d17/resume_recent.pdf)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://github.com/Obafemi-Jinadu/Obafemi-Jinadu/blob/32a24862638988f4cc7ad3ff80393708d6b932c5/resume_updated1.pdf)
 
 <!--
 **Obafemi-Jinadu/Obafemi-Jinadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
