@@ -30,7 +30,7 @@ I’m a doctoral candidate @ Tufts currently working on machine learning, and de
   - [x] <img src="https://github.com/user-attachments/assets/90030df6-054e-448b-962f-985e9faa9370" width="13"> [Linkedin](https://www.linkedin.com/in/obafemi-jinadu/)
   - [x] <img src="https://github.com/user-attachments/assets/d9949cd6-f45b-4294-80a4-d1751894b8d6" width="13"> [Website](https://femi-jinadu.github.io/) 
  - [x] 📫 [obafemi.jinadu@tufts.edu](obafemi.jinadu@tufts.edu)
- - [x]  <img src="https://img.shields.io/badge/My-CV-critical" width="40">   [my CV](https://github.com/Obafemi-Jinadu/Obafemi-Jinadu/blob/32a24862638988f4cc7ad3ff80393708d6b932c5/resume_updated1.pdf)
+ - [x]  <img src="https://img.shields.io/badge/My-CV-critical" width="30">   [Resume](https://github.com/Obafemi-Jinadu/Obafemi-Jinadu/blob/32a24862638988f4cc7ad3ff80393708d6b932c5/resume_updated1.pdf)
 
 
 <!--
