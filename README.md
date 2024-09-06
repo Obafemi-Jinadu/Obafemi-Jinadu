@@ -6,7 +6,7 @@ I’m a doctoral candidate @ Tufts currently working on machine learning, and de
 
 
 
- <h1 align="center"><table>
+<table>
   <tr>
     <th colspan="2"> Skills & Expertise </th>
   </tr>
@@ -21,7 +21,7 @@ I’m a doctoral candidate @ Tufts currently working on machine learning, and de
    <tbody>
         <tr>
             <td rowspan=4>Auxilliary & Visualization </td>
-            <td rowspan=2><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> </td></h1>
+            <td rowspan=2><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> </td>
  
 </table>
 
