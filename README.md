@@ -3,9 +3,6 @@
 I’m a doctoral candidate @ Tufts currently working on machine learning, and deep learning techniques for vision and multimodal understanding (vision-language), toward deploying reliable, robust, and trustworthy models that achieve state-of-art performance. 
 
 
-
-
-
 <table>
   <tr>
     <th colspan="2"> Skills & Expertise </th>
@@ -17,7 +14,7 @@ I’m a doctoral candidate @ Tufts currently working on machine learning, and de
   <tbody>
         <tr>
             <td rowspan=4>Tools & Libraries </td>
-            <td rowspan=2><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> </td>
+            <td rowspan=2><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> </td>
    <tbody>
         <tr>
             <td rowspan=4>Auxilliary & Visualization </td>
