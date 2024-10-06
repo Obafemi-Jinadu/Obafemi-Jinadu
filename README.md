@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I’m a doctoral candidate @ Tufts currently working on machine learning, and deep learning techniques for vision and multimodal understanding (vision-language), toward deploying reliable, robust, and trustworthy models that achieve state-of-art performance. 
+I’m a doctoral candidate @ Tufts currently working on machine learning, and deep learning techniques for computer vision, multimodal understanding (vision-language), and generative AI toward deploying reliable, robust, and trustworthy models that achieve state-of-art performance. 
 
 
 <table>
